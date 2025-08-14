@@ -12,7 +12,7 @@ A modern Flutter-based mobile application for the citizens of Jamnagar to access
 
 ## 📦 Download
 
-You can always get the latest version from the [Releases page](https://github.com/yourusername/jvmapp/releases).
+You can always get the latest version from the [Releases page](https://github.com/PamJoshi/JMC-App/releases).
 
 ---
 
