@@ -82,9 +82,14 @@ You can always get the latest version from the [Releases page](https://github.co
 
 <table>
   <tr>
-    <td><img src="screenshots/login.png" alt="Login Screen" width="200"/></td>
-    <td><img src="screenshots/home.png" alt="Home Screen" width="200"/></td>
-    <td><img src="screenshots/services.png" alt="Services Screen" width="200"/></td>
+    <td><img src="screenshots/login.jpeg" alt="Login Screen" width="200"/></td>
+    <td><img src="screenshots/home.jpg" alt="Home Screen" width="200"/></td>
+    <td><img src="screenshots/property.jpg" alt="Services Screen" width="200"/></td>
+    <td><img src="screenshots/complaint.jpg" alt="Services Screen" width="200"/></td>
+    <td><img src="screenshots/trade.jpg" alt="Services Screen" width="200"/></td>
+    <td><img src="screenshots/emergency.jpg" alt="Services Screen" width="200"/></td>
+    <td><img src="screenshots/civic.jpg" alt="Services Screen" width="200"/></td>
+    <td><img src="screenshots/chatbot.jpg" alt="Services Screen" width="200"/></td>
   </tr>
 </table>
 
