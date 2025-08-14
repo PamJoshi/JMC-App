@@ -123,13 +123,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-- Product Owner: [Name]
-- Lead Developer: [Name]
-- UI/UX Designer: [Name]
+- Product Owner: Param Joshi
+- Developed By: Param Joshi
 
-## 📞 Support
-
-For support, email support@jmc.gov.in or raise an issue in the repository.
 
 ---
 
