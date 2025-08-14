@@ -1,10 +1,18 @@
 # 🏛️ JMC App - Jamnagar Municipal Corporation
 
+[![Download APK](https://img.shields.io/badge/Download%20JMC--App-APK-brightgreen?logo=android)](https://github.com/yourusername/jvmapp/releases/latest/download/JMC-App.apk)
+
 A modern Flutter-based mobile application for the citizens of Jamnagar to access municipal services digitally.
 
 ![Flutter Version](https://img.shields.io/badge/Flutter-3.0+-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-green.svg)
 ![License](https://img.shields.io/badge/License-MIT-purple.svg)
+
+---
+
+## 📦 Download
+
+You can always get the latest version from the [Releases page](https://github.com/yourusername/jvmapp/releases).
 
 ---
 
