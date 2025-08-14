@@ -78,7 +78,6 @@ You can always get the latest version from the [Releases page](https://github.co
 
 ## 📱 Screenshots
 
-> Add screenshots in a `screenshots/` folder and reference them here for a better showcase!
 
 <table>
   <tr>
